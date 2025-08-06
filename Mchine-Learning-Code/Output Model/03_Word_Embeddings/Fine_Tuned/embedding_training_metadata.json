@@ -1,0 +1,18 @@
+{
+    "train_size_embedding_corpus": 21354,
+    "corpus_size_sentences_for_embedding": 21354,
+    "vocab_size_trained_model": 3059,
+    "coverage_train_on_trained_model": 0.9935564392070356,
+    "total_epochs_trained_embedding": 4,
+    "early_stopping_triggered_embedding_manual": true,
+    "final_similarity_sample (fotosintesis-tumbuh)": 0.9413204789161682,
+    "best_similarity_sample (fotosintesis-tumbuh)": 0.9999901652336121,
+    "embedding_model_type": "FastText (trained from scratch on custom corpus)",
+    "embedding_vector_size": 300,
+    "embedding_window_size": 5,
+    "embedding_min_count": 2,
+    "embedding_sg_algorithm": 1,
+    "embedding_alpha_init": 0.005,
+    "embedding_min_alpha_final": 1e-05,
+    "embedding_training_date": "2025-05-21T16:27:35.930561"
+}

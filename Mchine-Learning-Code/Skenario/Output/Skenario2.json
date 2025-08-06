@@ -1,0 +1,142 @@
+[
+  {
+    "id_soal": "InputFile_001",
+    "soal": "Jelaskan fungsi utama dari organ hati dalam tubuh manusia!",
+    "jawaban_siswa_input": "Hati memiliki banyak fungsi penting, termasuk detoksifikasi senyawa berbahaya, produksi empedu untuk membantu pencernaan lemak, metabolisme karbohidrat, protein, dan lemak, serta penyimpanan vitamin dan mineral.",
+    "kata_kunci_input": [
+      "detoksifikasi",
+      "empedu",
+      "metabolisme",
+      "penyimpanan vitamin",
+      "pencernaan"
+    ],
+    "skor_total_numerik": 0.4899660235710449,
+    "skor_total_persen": "49.00"
+  },
+  {
+    "id_soal": "InputFile_002",
+    "soal": "Jelaskan fungsi utama dari organ hati dalam tubuh manusia!",
+    "jawaban_siswa_input": "Fungsi hati sangat vital. Organ ini membersihkan racun dari darah, membuat cairan empedu yang penting untuk mencerna makanan berlemak, mengatur kadar gula dan protein, serta menyimpan beberapa jenis vitamin.",
+    "kata_kunci_input": [
+      "detoksifikasi",
+      "empedu",
+      "metabolisme",
+      "penyimpanan vitamin",
+      "pencernaan"
+    ],
+    "skor_total_numerik": 0.5053709442005005,
+    "skor_total_persen": "50.54"
+  },
+  {
+    "id_soal": "InputFile_003",
+    "soal": "Jelaskan fungsi utama dari organ hati dalam tubuh manusia!",
+    "jawaban_siswa_input": "Hati itu untuk detoks, bikin empedu, metabolisme, dan simpan vitamin.",
+    "kata_kunci_input": [
+      "detoksifikasi",
+      "empedu",
+      "metabolisme",
+      "penyimpanan vitamin",
+      "pencernaan"
+    ],
+    "skor_total_numerik": 0.8106644373032615,
+    "skor_total_persen": "81.07"
+  },
+  {
+    "id_soal": "InputFile_005",
+    "soal": "Apa yang dimaksud dengan Produk Domestik Bruto (PDB) dan mengapa PDB penting sebagai indikator ekonomi?",
+    "jawaban_siswa_input": "Produk Domestik Bruto (PDB) adalah total nilai pasar semua barang dan jasa akhir yang diproduksi dalam suatu negara selama periode waktu tertentu, biasanya satu tahun. PDB penting karena menjadi ukuran utama pertumbuhan ekonomi, standar hidup, dan kesehatan ekonomi suatu negara secara keseluruhan.",
+    "kata_kunci_input": [
+      "nilai pasar",
+      "barang dan jasa akhir",
+      "periode waktu",
+      "pertumbuhan ekonomi",
+      "standar hidup"
+    ],
+    "skor_total_numerik": 0.7949536696886373,
+    "skor_total_persen": "79.50"
+  },
+  {
+    "id_soal": "InputFile_006",
+    "soal": "Apa yang dimaksud dengan Produk Domestik Bruto (PDB) dan mengapa PDB penting sebagai indikator ekonomi?",
+    "jawaban_siswa_input": "PDB itu total nilai semua yang dihasilkan negara dalam setahun. Penting untuk lihat ekonomi maju atau tidak.",
+    "kata_kunci_input": [
+      "nilai pasar",
+      "barang dan jasa akhir",
+      "periode waktu",
+      "pertumbuhan ekonomi",
+      "standar hidup"
+    ],
+    "skor_total_numerik": 0.7941179756218935,
+    "skor_total_persen": "79.41"
+  },
+  {
+    "id_soal": "InputFile_007",
+    "soal": "Apa yang dimaksud dengan Produk Domestik Bruto (PDB) dan mengapa PDB penting sebagai indikator ekonomi?",
+    "jawaban_siswa_input": "Produk Domestik Bruto, yang sering disingkat PDB, merupakan sebuah agregat moneter yang mencerminkan nilai keseluruhan dari seluruh barang jadi dan layanan jasa yang dihasilkan oleh seluruh unit produksi di dalam batas wilayah suatu negara dalam kurun waktu satu tahun fiskal. Indikator ini krusial karena memberikan gambaran komprehensif mengenai laju pertumbuhan ekonomi, sekaligus menjadi tolok ukur bagi tingkat kemakmuran dan kesehatan fiskal negara tersebut secara makro.",
+    "kata_kunci_input": [
+      "nilai pasar",
+      "barang dan jasa akhir",
+      "periode waktu",
+      "pertumbuhan ekonomi",
+      "standar hidup"
+    ],
+    "skor_total_numerik": 0.8465687005096225,
+    "skor_total_persen": "84.66"
+  },
+  {
+    "id_soal": "InputFile_009",
+    "soal": "Mengapa pelestarian keanekaragaman hayati itu penting bagi keberlangsungan ekosistem?",
+    "jawaban_siswa_input": "Pelestarian keanekaragaman hayati penting untuk menjaga keseimbangan ekosistem, memastikan ketersediaan sumber daya alam, mendukung layanan ekosistem seperti penyerbukan dan pengendalian hama alami, serta memberikan potensi penemuan baru di bidang medis dan pangan.",
+    "kata_kunci_input": [
+      "keseimbangan ekosistem",
+      "sumber daya alam",
+      "layanan ekosistem",
+      "penyerbukan",
+      "medis"
+    ],
+    "skor_total_numerik": 0.7893658589179523,
+    "skor_total_persen": "78.94"
+  },
+  {
+    "id_soal": "InputFile_010",
+    "soal": "Mengapa pelestarian keanekaragaman hayati itu penting bagi keberlangsungan ekosistem?",
+    "jawaban_siswa_input": "Penting jaga banyak jenis hewan dan tumbuhan agar alam seimbang dan kita punya sumber makanan serta obat.",
+    "kata_kunci_input": [
+      "keseimbangan ekosistem",
+      "sumber daya alam",
+      "layanan ekosistem",
+      "penyerbukan",
+      "medis"
+    ],
+    "skor_total_numerik": 0.5347561301158139,
+    "skor_total_persen": "53.48"
+  },
+  {
+    "id_soal": "InputFile_011",
+    "soal": "Mengapa pelestarian keanekaragaman hayati itu penting bagi keberlangsungan ekosistem?",
+    "jawaban_siswa_input": "Keberlangsungan ekosistem sangat bergantung pada terjaganya variasi seluruh bentuk kehidupan, mulai dari tingkat genetik, spesies, hingga ekosistem itu sendiri. Ini krusial karena setiap komponen hayati memiliki peran spesifik yang berkontribusi pada stabilitas jejaring makanan, siklus nutrisi, penyerbukan tanaman pangan, dekomposisi materi organik, regulasi iklim mikro, serta penyediaan sumber daya esensial bagi manusia, termasuk bahan pangan, obat-obatan, dan material industri. Hilangnya satu komponen dapat memicu efek domino yang merusak fungsi ekosistem secara keseluruhan.",
+    "kata_kunci_input": [
+      "keseimbangan ekosistem",
+      "sumber daya alam",
+      "layanan ekosistem",
+      "penyerbukan",
+      "medis"
+    ],
+    "skor_total_numerik": 0.8614925966214617,
+    "skor_total_persen": "86.15"
+  },
+  {
+    "id_soal": "InputFile_013",
+    "soal": "Jelaskan secara singkat proses terjadinya gerhana matahari!",
+    "jawaban_siswa_input": "Gerhana matahari terjadi ketika Bulan berada di antara Matahari dan Bumi, sehingga bayangan Bulan jatuh ke permukaan Bumi dan menghalangi sebagian atau seluruh cahaya Matahari.",
+    "kata_kunci_input": [
+      "Bulan",
+      "Matahari",
+      "Bumi",
+      "bayangan",
+      "cahaya matahari"
+    ],
+    "skor_total_numerik": 0.7825525642215818,
+    "skor_total_persen": "78.26"
+  }
+]

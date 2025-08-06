@@ -1,0 +1,82 @@
+[
+  {
+    "id_soal": "InputFile_001",
+    "soal": "Siapa penulis novel \"Laskar Pelangi\"?",
+    "jawaban_siswa_input": "Novel \"Laskar Pelangi\" ditulis oleh Andrea Hirata.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8282523427124314,
+    "skor_total_persen": "82.83"
+  },
+  {
+    "id_soal": "InputFile_002",
+    "soal": "Siapa penulis novel \"Laskar Pelangi\"?",
+    "jawaban_siswa_input": "Novel \"Laskar Pelangi\" dituliss oleh Andria Hirata.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.7915173344270007,
+    "skor_total_persen": "79.15"
+  },
+  {
+    "id_soal": "InputFile_003",
+    "soal": "Siapa penulis novel \"Laskar Pelangi\"?",
+    "jawaban_siswa_input": "Penulis Laskar Pelangi adalah Andrea hiratta, dia sangat terkenal.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.866733088633688,
+    "skor_total_persen": "86.67"
+  },
+  {
+    "id_soal": "InputFile_005",
+    "soal": "Jelaskan secara singkat proses terjadinya metamorfosis pada kupu-kupu!",
+    "jawaban_siswa_input": "Metamorfosis pada kupu-kupu adalah perubahan bentuk dari telur, menjadi larva atau ulat, kemudian pupa atau kepompong, dan akhirnya menjadi kupu-kupu dewasa.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.7816979060354036,
+    "skor_total_persen": "78.17"
+  },
+  {
+    "id_soal": "InputFile_006",
+    "soal": "Jelaskan secara singkat proses terjadinya metamorfosis pada kupu-kupu!",
+    "jawaban_siswa_input": "Metamorfosis pada kupu2 adalah perubahan bentuk dari telor, menjadi larfa atau ulat, kemudian pupaa atau kepompong, dan ahirnya menjadi kupu-kupu dwasa.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8020890478709329,
+    "skor_total_persen": "80.21"
+  },
+  {
+    "id_soal": "InputFile_007",
+    "soal": "Jelaskan secara singkat proses terjadinya metamorfosis pada kupu-kupu!",
+    "jawaban_siswa_input": "Proses metamorfosis kupu-kupu itu telur, trus ulet, trus kepongpong, baru jadi kupu-kupu. Itu perubahannya.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8184735496749916,
+    "skor_total_persen": "81.85"
+  },
+  {
+    "id_soal": "InputFile_009",
+    "soal": "Apa tiga komponen utama penyusun atom?",
+    "jawaban_siswa_input": "Tiga komponen utama penyusun atom adalah proton, neutron, dan elektron.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8357641384489228,
+    "skor_total_persen": "83.58"
+  },
+  {
+    "id_soal": "InputFile_010",
+    "soal": "Apa tiga komponen utama penyusun atom?",
+    "jawaban_siswa_input": "Tiga komponen utama penyusun atom yaitu protn, netron, dan elektron.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8699745288974932,
+    "skor_total_persen": "87.00"
+  },
+  {
+    "id_soal": "InputFile_012",
+    "soal": "Sebutkan ibu kota provinsi Jawa Timur!",
+    "jawaban_siswa_input": "Ibu kota provinsi Jawa Timur adalah Surabaya.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8132578111403912,
+    "skor_total_persen": "81.33"
+  },
+  {
+    "id_soal": "InputFile_013",
+    "soal": "Sebutkan ibu kota provinsi Jawa Timur!",
+    "jawaban_siswa_input": "Ibukota provinsi Jwa Timur ialah Surabya.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.6814529899516291,
+    "skor_total_persen": "68.15"
+  }
+]

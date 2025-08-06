@@ -1,0 +1,125 @@
+Ground Truth Manual
+Seknario 1
+Soal: Demokrasi Pancasila
+
+Jawaban 1 (Kualitas Tinggi/Lengkap): 95
+Jawaban 2 (Kualitas Sedang/Cukup Lengkap): 65
+Jawaban 3 (Kualitas Rendah/Kurang Lengkap): 40
+Jawaban 4 (Tidak Relevan/Salah Total): 15
+Soal: Komponen Tata Surya
+
+Jawaban 1 (Kualitas Tinggi/Lengkap): 98
+Jawaban 2 (Kualitas Sedang/Cukup Lengkap): 75
+Jawaban 3 (Kualitas Rendah/Kurang Lengkap): 35
+Jawaban 4 (Tidak Relevan/Salah Total): 10
+Soal: Teori Asal Usul Kehidupan
+
+Jawaban 1 (Kualitas Tinggi/Lengkap): 93
+Jawaban 2 (Kualitas Sedang/Cukup Lengkap): 70 (Anda bisa menambahkan 2 variasi jawaban lagi untuk soal ini jika ingin 4 variasi per soal)
+============================================================================
+
+Seknario 2
+Soal: Fungsi Hati
+
+Jawaban 1 (Panjang): 90
+Jawaban 2 (Sedang): 90
+Jawaban 3 (Singkat): 90
+Soal: Produk Domestik Bruto (PDB)
+
+Jawaban 1 (Sedang): 92
+Jawaban 2 (Singkat): 92
+Jawaban 3 (Panjang): 92
+Soal: Pelestarian Keanekaragaman Hayati
+
+Jawaban 1 (Sedang): 88
+Jawaban 2 (Singkat): 88
+Jawaban 3 (Panjang): 88
+Soal: Proses Gerhana Matahari
+
+Jawaban 1 (Hanya satu versi untuk contoh ini, namun Anda bisa membuat variasinya): 90
+============================================================================
+
+Seknario 3
+Soal: Dampak Revolusi Industri
+
+Jawaban 1 (Versi A): 90
+Jawaban 2 (Versi B - Sinonim): 90
+Soal: Fungsi Sistem Peredaran Darah
+
+Jawaban 1 (Versi A): 92
+Jawaban 2 (Versi B - Sinonim): 92
+Soal: Proses Terjadinya Hujan
+
+Jawaban 1 (Versi A): 88
+Jawaban 2 (Versi B - Sinonim): 88
+Soal: Manfaat Daur Ulang Sampah
+
+Jawaban 1 (Versi A): 90
+Jawaban 2 (Versi B - Struktur Berbeda): 90
+Soal: Pentingnya Sarapan Pagi
+
+Jawaban 1 (Versi A): 85
+Jawaban 2 (Versi B - Struktur Berbeda): 85============================================================================
+
+Seknario 4
+Soal: Penulis "Laskar Pelangi"
+
+Jawaban 1 (Tanpa Kesalahan): 100
+Jawaban 2 (Ejaan Minor "dituliss", "Andria"): 90
+Jawaban 3 (Ejaan "hiratta", struktur "adalah"): 85
+Soal: Metamorfosis Kupu-kupu
+
+Jawaban 1 (Tanpa Kesalahan): 95
+Jawaban 2 (Banyak Ejaan Minor "kupu2", "telor", "larfa", "pupaa", "ahirnya", "dwasa"): 80
+Jawaban 3 (Bahasa Kurang Formal "trus", "ulet", "kepongpong"): 75
+Soal: Komponen Atom
+
+Jawaban 1 (Tanpa Kesalahan): 100
+Jawaban 2 (Ejaan Minor "protn", "netron"): 90
+Soal: Ibu Kota Jawa Timur
+
+Jawaban 1 (Tanpa Kesalahan): 100
+Jawaban 2 (Ejaan Minor "Jwa Timur", "Surabya"): 95
+============================================================================
+
+Seknario 5
+Soal: Fotosintesis
+
+Jawaban 1 (Bahasa sederhana, konsep benar): 85-90
+Jawaban 2 (Bahasa lebih formal, konsep benar): 90-95
+Soal: Globalisasi
+
+Jawaban 1 (Bahasa sederhana, konsep benar): 80-85
+Jawaban 2 (Bahasa lebih formal, konsep benar): 90-95
+Soal: Hukum Permintaan dan Penawaran
+
+Jawaban 1 (Bahasa sederhana, konsep benar): 85-90
+Jawaban 2 (Bahasa lebih formal, konsep benar): 90-95
+Soal: Peran Ginjal
+
+Jawaban 1 (Bahasa sederhana, konsep benar): 88-92
+Jawaban 2 (Bahasa lebih formal, konsep benar): 90-95
+Soal: Pentingnya Tidur Cukup
+
+Jawaban 1 (Bahasa sederhana, konsep benar): 85-90
+Jawaban 2 (Bahasa lebih formal, konsep benar): 90-95
+============================================================================
+
+Seknario 6
+Soal: Fungsi Utama Jantung
+
+Jawaban 1 (Tidak Relevan - deskripsi fisik): 10
+Jawaban 2 (Informasi Salah - fungsi sumsum tulang): 5
+Jawaban 3 (Frasa Filler): 0
+Jawaban 4 (Kata kunci "darah" tapi konteks salah): 15
+Soal: Tiga Negara Terluas
+
+Jawaban 1 (Tidak Relevan - negara terpadat): 10
+Jawaban 2 (Informasi Sangat Salah): 0
+Jawaban 3 (Frasa Filler): 0
+Soal: Proses Pembentukan Batuan Sedimen
+
+Jawaban 1 (Informasi Salah - proses batuan beku): 5
+Jawaban 2 (Jawaban Umum, tidak menjawab): 10
+Jawaban 3 (Frasa Filler): 0
+============================================================================

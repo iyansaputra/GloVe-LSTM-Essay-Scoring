@@ -1,0 +1,63 @@
+{
+  "start_time": "2025-05-21T16:10:01.370156",
+  "early_stopping_triggered_manual": true,
+  "epochs_detail": [
+    {
+      "epoch_manual": 1,
+      "timestamp": "2025-05-21T16:15:38.297204",
+      "vocab_size": 3059,
+      "similarity_sample_fotosintesis_tumbuh": 0.8050714135169983,
+      "early_stopping_triggered_this_epoch": false
+    },
+    {
+      "epoch_manual": 2,
+      "timestamp": "2025-05-21T16:16:24.824865",
+      "vocab_size": 3059,
+      "similarity_sample_fotosintesis_tumbuh": 0.6792925000190735,
+      "early_stopping_triggered_this_epoch": false
+    },
+    {
+      "epoch_manual": 3,
+      "timestamp": "2025-05-21T16:17:11.203561",
+      "vocab_size": 3059,
+      "similarity_sample_fotosintesis_tumbuh": 0.595928966999054,
+      "early_stopping_triggered_this_epoch": false
+    },
+    {
+      "epoch_manual": 4,
+      "timestamp": "2025-05-21T16:17:57.321931",
+      "vocab_size": 3059,
+      "similarity_sample_fotosintesis_tumbuh": 0.5438551306724548,
+      "early_stopping_triggered_this_epoch": true
+    },
+    {
+      "epoch_manual": 1,
+      "timestamp": "2025-05-21T16:24:46.388280",
+      "vocab_size": 3059,
+      "similarity_sample_fotosintesis_tumbuh": 0.9999901652336121,
+      "early_stopping_triggered_this_epoch": false
+    },
+    {
+      "epoch_manual": 2,
+      "timestamp": "2025-05-21T16:25:04.487662",
+      "vocab_size": 3059,
+      "similarity_sample_fotosintesis_tumbuh": 0.9998903870582581,
+      "early_stopping_triggered_this_epoch": false
+    },
+    {
+      "epoch_manual": 3,
+      "timestamp": "2025-05-21T16:25:18.923051",
+      "vocab_size": 3059,
+      "similarity_sample_fotosintesis_tumbuh": 0.9952110052108765,
+      "early_stopping_triggered_this_epoch": false
+    },
+    {
+      "epoch_manual": 4,
+      "timestamp": "2025-05-21T16:25:33.266119",
+      "vocab_size": 3059,
+      "similarity_sample_fotosintesis_tumbuh": 0.9413204789161682,
+      "early_stopping_triggered_this_epoch": true
+    }
+  ],
+  "end_time": "2025-05-21T16:25:33.280445"
+}

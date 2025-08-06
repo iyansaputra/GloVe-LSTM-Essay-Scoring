@@ -1,0 +1,82 @@
+[
+  {
+    "id_soal": "InputFile_001",
+    "soal": "Jelaskan dampak utama dari Revolusi Industri terhadap masyarakat!",
+    "jawaban_siswa_input": "Dampak utama Revolusi Industri terhadap masyarakat adalah urbanisasi besar-besaran, munculnya kelas pekerja baru, dan peningkatan produksi barang secara massal.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.4637408605928356,
+    "skor_total_persen": "46.37"
+  },
+  {
+    "id_soal": "InputFile_002",
+    "soal": "Jelaskan dampak utama dari Revolusi Industri terhadap masyarakat!",
+    "jawaban_siswa_input": "Akibat fundamental era industrialisasi bagi tatanan sosial adalah pergeseran penduduk dari desa ke kota secara signifikan, terbentuknya golongan buruh, serta lonjakan dalam pembuatan produk skala besar.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.5118522047996521,
+    "skor_total_persen": "51.19"
+  },
+  {
+    "id_soal": "InputFile_004",
+    "soal": "Apa fungsi utama sistem peredaran darah pada manusia?",
+    "jawaban_siswa_input": "Fungsi utama sistem peredaran darah adalah mengangkut oksigen dan nutrisi ke seluruh sel tubuh, serta membawa kembali karbon dioksida dan sisa metabolisme untuk dikeluarkan.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.5273793614094062,
+    "skor_total_persen": "52.74"
+  },
+  {
+    "id_soal": "InputFile_005",
+    "soal": "Apa fungsi utama sistem peredaran darah pada manusia?",
+    "jawaban_siswa_input": "Peran krusial sistem sirkulasi darah ialah mendistribusikan zat asam dan sari makanan ke setiap sel, sekaligus mengumpulkan gas karbon dioksida dan limbah hasil metabolisme untuk dibuang dari tubuh.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.4411526800750558,
+    "skor_total_persen": "44.12"
+  },
+  {
+    "id_soal": "InputFile_007",
+    "soal": "Bagaimana proses terjadinya hujan secara singkat?",
+    "jawaban_siswa_input": "Hujan terjadi karena penguapan air dari permukaan bumi, kemudian uap air tersebut naik dan mendingin membentuk awan, lalu butiran air di awan bergabung menjadi besar dan akhirnya jatuh kembali ke bumi.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.6710263530742836,
+    "skor_total_persen": "67.10"
+  },
+  {
+    "id_soal": "InputFile_008",
+    "soal": "Bagaimana proses terjadinya hujan secara singkat?",
+    "jawaban_siswa_input": "Turunnya air dari langit disebabkan oleh evaporasi air dari daratan dan lautan, yang selanjutnya uap tersebut mengalami pendinginan di atmosfer sehingga terkondensasi menjadi gumpalan awan, dan akhirnya tetesan air di dalamnya menyatu menjadi cukup berat untuk luruh ke permukaan planet.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.7796828298491016,
+    "skor_total_persen": "77.97"
+  },
+  {
+    "id_soal": "InputFile_010",
+    "soal": "Apa manfaat utama dari melakukan daur ulang sampah?",
+    "jawaban_siswa_input": "Manfaat utama daur ulang sampah adalah mengurangi jumlah sampah yang berakhir di TPA, menghemat sumber daya alam, dan mengurangi polusi lingkungan.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.6896190011716413,
+    "skor_total_persen": "68.96"
+  },
+  {
+    "id_soal": "InputFile_011",
+    "soal": "Apa manfaat utama dari melakukan daur ulang sampah?",
+    "jawaban_siswa_input": "Dengan melakukan daur ulang sampah, jumlah limbah di tempat pembuangan akhir dapat dikurangi, sumber daya alam bisa dihemat penggunaannya, serta pencemaran terhadap lingkungan pun ikut menurun.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.7860621203710754,
+    "skor_total_persen": "78.61"
+  },
+  {
+    "id_soal": "InputFile_013",
+    "soal": "Jelaskan pentingnya sarapan pagi bagi pelajar!",
+    "jawaban_siswa_input": "Sarapan pagi penting bagi pelajar karena dapat meningkatkan konsentrasi belajar di sekolah, memberikan energi yang cukup untuk beraktivitas, dan membantu menjaga kesehatan metabolisme tubuh.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.5011618576265012,
+    "skor_total_persen": "50.12"
+  },
+  {
+    "id_soal": "InputFile_014",
+    "soal": "Jelaskan pentingnya sarapan pagi bagi pelajar!",
+    "jawaban_siswa_input": "Bagi pelajar, memulai hari dengan sarapan sangatlah krusial; asupan makanan di pagi hari ini berkontribusi pada peningkatan fokus saat menerima pelajaran, menyediakan tenaga untuk kegiatan fisik dan mental, serta berperan dalam pemeliharaan sistem metabolisme tubuh yang sehat.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.6608719179950511,
+    "skor_total_persen": "66.09"
+  }
+]

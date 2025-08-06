@@ -1,0 +1,16 @@
+{
+  "model_type": "LSTM_Penilaian_Otomatis",
+  "keras_vocab_size": 3498,
+  "max_sequence_length": 150,
+  "embedding_dimension_used": 300,
+  "lstm_units": 256,
+  "bidirectional": true,
+  "preprocessing_info": {
+    "stemmer": "Sastrawi",
+    "stopword_removal": "Sastrawi",
+    "input_text_format": "PERTANYAAN: [teks] JAWABAN: [teks] KUNCI: [teks]"
+  },
+  "lstm_training_date": "2025-05-21T18:26:44.005312",
+  "tensorflow_version": "2.18.0",
+  "catatan": "Model LSTM untuk penilaian jawaban esai. Bobot embedding di-freeze."
+}

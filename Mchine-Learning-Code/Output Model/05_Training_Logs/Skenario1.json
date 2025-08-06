@@ -1,0 +1,170 @@
+[
+  {
+    "id_soal": "InputFile_001",
+    "soal": "Jelaskan secara komprehensif apa yang dimaksud dengan \"Demokrasi Pancasila\" dan sebutkan setidaknya tiga prinsip utamanya!",
+    "jawaban_siswa_input": "Demokrasi Pancasila adalah sistem demokrasi yang berlandaskan pada nilai-nilai luhur Pancasila sebagai dasar negara Indonesia. Sistem ini mengutamakan musyawarah untuk mufakat dalam pengambilan keputusan dan menyeimbangkan hak serta kewajiban warga negara. Tiga prinsip utamanya adalah: 1. Kedaulatan di tangan rakyat yang dilaksanakan menurut hikmat kebijaksanaan dalam permusyawaratan/perwakilan. 2. Menjunjung tinggi Hak Asasi Manusia sesuai dengan nilai-nilai Pancasila. 3. Adanya pembagian kekuasaan (legislatif, eksekutif, yudikatif) yang saling mengawasi dan mengimbangi.",
+    "kata_kunci_input": [
+      "Kedaulatan Rakyat",
+      "Musyawarah Mufakat",
+      "Hak Asasi Manusia",
+      "Pembagian Kekuasaan",
+      "Pancasila"
+    ],
+    "skor_total_numerik": 0.8590090547148019,
+    "skor_total_persen": "85.90"
+  },
+  {
+    "id_soal": "InputFile_002",
+    "soal": "Jelaskan secara komprehensif apa yang dimaksud dengan \"Demokrasi Pancasila\" dan sebutkan setidaknya tiga prinsip utamanya!",
+    "jawaban_siswa_input": "Demokrasi Pancasila itu demokrasi yang sesuai Pancasila. Prinsipnya itu rakyat berkuasa, ada HAM, sama ada DPR buat wakil rakyat.",
+    "kata_kunci_input": [
+      "Kedaulatan Rakyat",
+      "Musyawarah Mufakat",
+      "Hak Asasi Manusia",
+      "Pembagian Kekuasaan",
+      "Pancasila"
+    ],
+    "skor_total_numerik": 0.6702324531358798,
+    "skor_total_persen": "67.02"
+  },
+  {
+    "id_soal": "InputFile_003",
+    "soal": "Jelaskan secara komprehensif apa yang dimaksud dengan \"Demokrasi Pancasila\" dan sebutkan setidaknya tiga prinsip utamanya!",
+    "jawaban_siswa_input": "Demokrasi itu dari rakyat, oleh rakyat, untuk rakyat. Pancasila itu dasar negara.",
+    "kata_kunci_input": [
+      "Kedaulatan Rakyat",
+      "Musyawarah Mufakat",
+      "Hak Asasi Manusia",
+      "Pembagian Kekuasaan",
+      "Pancasila"
+    ],
+    "skor_total_numerik": 0.5419693271699206,
+    "skor_total_persen": "54.20"
+  },
+  {
+    "id_soal": "InputFile_004",
+    "soal": "Jelaskan secara komprehensif apa yang dimaksud dengan \"Demokrasi Pancasila\" dan sebutkan setidaknya tiga prinsip utamanya!",
+    "jawaban_siswa_input": "Demokrasi Pancasila itu tentang pemilihan presiden setiap lima tahun sekali. Garuda Pancasila adalah lambang negara.",
+    "kata_kunci_input": [
+      "Kedaulatan Rakyat",
+      "Musyawarah Mufakat",
+      "Hak Asasi Manusia",
+      "Pembagian Kekuasaan",
+      "Pancasila"
+    ],
+    "skor_total_numerik": 0.7728474058301139,
+    "skor_total_persen": "77.28"
+  },
+  {
+    "id_soal": "InputFile_006",
+    "soal": "Apa saja komponen utama dalam sistem tata surya kita dan sebutkan urutan planet dari yang terdekat dengan Matahari?",
+    "jawaban_siswa_input": "Sistem tata surya kita terdiri dari Matahari sebagai pusatnya, kemudian ada delapan planet utama yaitu Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, dan Neptunus. Selain planet-planet tersebut, ada juga berbagai benda langit lain seperti planet kerdil (contohnya Pluto), asteroid yang banyak terdapat di sabuk asteroid antara Mars dan Jupiter, komet yang memiliki ekor panjang saat mendekati Matahari, serta meteoroid.",
+    "kata_kunci_input": [
+      "Matahari",
+      "planet",
+      "Merkurius",
+      "Venus",
+      "Bumi",
+      "Mars",
+      "Jupiter",
+      "Saturnus",
+      "Uranus",
+      "Neptunus",
+      "asteroid",
+      "komet"
+    ],
+    "skor_total_numerik": 0.8150791765580409,
+    "skor_total_persen": "81.51"
+  },
+  {
+    "id_soal": "InputFile_007",
+    "soal": "Apa saja komponen utama dalam sistem tata surya kita dan sebutkan urutan planet dari yang terdekat dengan Matahari?",
+    "jawaban_siswa_input": "Komponen utama tata surya itu Matahari dan planet-planet. Urutannya Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus. Ada juga asteroid dan komet.",
+    "kata_kunci_input": [
+      "Matahari",
+      "planet",
+      "Merkurius",
+      "Venus",
+      "Bumi",
+      "Mars",
+      "Jupiter",
+      "Saturnus",
+      "Uranus",
+      "Neptunus",
+      "asteroid",
+      "komet"
+    ],
+    "skor_total_numerik": 0.7815757093581382,
+    "skor_total_persen": "78.16"
+  },
+  {
+    "id_soal": "InputFile_008",
+    "soal": "Apa saja komponen utama dalam sistem tata surya kita dan sebutkan urutan planet dari yang terdekat dengan Matahari?",
+    "jawaban_siswa_input": "Tata surya ada Matahari, Bumi, Bulan. Planetnya ada banyak.",
+    "kata_kunci_input": [
+      "Matahari",
+      "planet",
+      "Merkurius",
+      "Venus",
+      "Bumi",
+      "Mars",
+      "Jupiter",
+      "Saturnus",
+      "Uranus",
+      "Neptunus",
+      "asteroid",
+      "komet"
+    ],
+    "skor_total_numerik": 0.8076489437541754,
+    "skor_total_persen": "80.76"
+  },
+  {
+    "id_soal": "InputFile_009",
+    "soal": "Apa saja komponen utama dalam sistem tata surya kita dan sebutkan urutan planet dari yang terdekat dengan Matahari?",
+    "jawaban_siswa_input": "Bintang terbesar di galaksi kita adalah Matahari. Planet Bumi adalah tempat kita tinggal.",
+    "kata_kunci_input": [
+      "Matahari",
+      "planet",
+      "Merkurius",
+      "Venus",
+      "Bumi",
+      "Mars",
+      "Jupiter",
+      "Saturnus",
+      "Uranus",
+      "Neptunus",
+      "asteroid",
+      "komet"
+    ],
+    "skor_total_numerik": 0.5332392756779015,
+    "skor_total_persen": "53.32"
+  },
+  {
+    "id_soal": "InputFile_011",
+    "soal": "Deskripsikan tiga teori utama mengenai asal usul kehidupan di Bumi!",
+    "jawaban_siswa_input": "Mengenai asal usul kehidupan di Bumi, ada tiga teori utama yang sering dibahas. Pertama, teori Abiogenesis atau generasi spontan, yang menyatakan bahwa kehidupan muncul dari materi tak hidup melalui proses alami di Bumi purba, misalnya dari 'sup primordial' yang kaya senyawa organik dan dipicu oleh energi seperti petir. Kedua, teori Panspermia, yang berpendapat bahwa kehidupan tidak berasal dari Bumi melainkan datang dari luar angkasa, terbawa oleh meteorit atau komet. Ketiga, teori Kreasionisme atau penciptaan khusus, yang meyakini bahwa kehidupan diciptakan oleh kekuatan ilahi atau supernatural.",
+    "kata_kunci_input": [
+      "Abiogenesis",
+      "Panspermia",
+      "Kreasionisme",
+      "sup primordial",
+      "evolusi kimia"
+    ],
+    "skor_total_numerik": 0.8967523486899704,
+    "skor_total_persen": "89.68"
+  },
+  {
+    "id_soal": "InputFile_012",
+    "soal": "Deskripsikan tiga teori utama mengenai asal usul kehidupan di Bumi!",
+    "jawaban_siswa_input": "Ada beberapa ide tentang bagaimana kehidupan dimulai. Satu bilang datang dari luar angkasa lewat meteor. Lainnya bilang muncul sendiri dari bahan kimia di laut purba karena ada energi petir. Ada juga yang percaya semua diciptakan begitu saja.",
+    "kata_kunci_input": [
+      "Abiogenesis",
+      "Panspermia",
+      "Kreasionisme",
+      "sup primordial",
+      "evolusi kimia"
+    ],
+    "skor_total_numerik": 0.6884288481000036,
+    "skor_total_persen": "68.84"
+  }
+]

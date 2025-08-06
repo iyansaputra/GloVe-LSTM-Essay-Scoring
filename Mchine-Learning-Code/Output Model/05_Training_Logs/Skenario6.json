@@ -1,0 +1,82 @@
+[
+  {
+    "id_soal": "InputFile_001",
+    "soal": "Apa fungsi utama jantung dalam sistem peredaran darah manusia?",
+    "jawaban_siswa_input": "Jantung itu organ yang penting sekali dan letaknya ada di sebelah kiri dada kita. Bentuknya seperti kepalan tangan.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.7931245707914707,
+    "skor_total_persen": "79.31"
+  },
+  {
+    "id_soal": "InputFile_002",
+    "soal": "Apa fungsi utama jantung dalam sistem peredaran darah manusia?",
+    "jawaban_siswa_input": "Fungsi utama jantung adalah untuk menghasilkan sel darah merah dan sel darah putih yang berguna untuk melawan kuman penyakit.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.6645969985464378,
+    "skor_total_persen": "66.46"
+  },
+  {
+    "id_soal": "InputFile_003",
+    "soal": "Apa fungsi utama jantung dalam sistem peredaran darah manusia?",
+    "jawaban_siswa_input": "Sejujurnya, pertanyaan ini sangat menarik dan membutuhkan pemikiran yang mendalam. Berdasarkan berbagai sumber yang telah saya baca dan pahami, dapat disimpulkan bahwa hal tersebut memiliki banyak aspek.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.5285964190959931,
+    "skor_total_persen": "52.86"
+  },
+  {
+    "id_soal": "InputFile_004",
+    "soal": "Apa fungsi utama jantung dalam sistem peredaran darah manusia?",
+    "jawaban_siswa_input": "Dalam sistem peredaran darah, darah itu penting. Golongan darah ada A, B, AB, dan O. Jantung harus sehat agar darah lancar.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.5100249666680363,
+    "skor_total_persen": "51.00"
+  },
+  {
+    "id_soal": "InputFile_006",
+    "soal": "Sebutkan tiga negara dengan luas wilayah terbesar di dunia!",
+    "jawaban_siswa_input": "Tiga negara dengan penduduk terbanyak adalah Tiongkok, India, dan Amerika Serikat. Luas wilayah mereka juga cukup besar.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8221002051980526,
+    "skor_total_persen": "82.21"
+  },
+  {
+    "id_soal": "InputFile_007",
+    "soal": "Sebutkan tiga negara dengan luas wilayah terbesar di dunia!",
+    "jawaban_siswa_input": "Negara terbesar di dunia itu Indonesia karena punya banyak pulau, lalu ada Malaysia dan Singapura sebagai tetangganya.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8345004334442884,
+    "skor_total_persen": "83.45"
+  },
+  {
+    "id_soal": "InputFile_008",
+    "soal": "Sebutkan tiga negara dengan luas wilayah terbesar di dunia!",
+    "jawaban_siswa_input": "Mengenai pertanyaan tentang negara-negara, perlu diketahui bahwa setiap negara memiliki karakteristiknya masing-masing yang unik dan menarik untuk dipelajari lebih lanjut.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.4081930790815082,
+    "skor_total_persen": "40.82"
+  },
+  {
+    "id_soal": "InputFile_010",
+    "soal": "Bagaimana proses pembentukan batuan sedimen?",
+    "jawaban_siswa_input": "Batuan sedimen terbentuk dari magma yang mendingin dan membeku di bawah atau di permukaan bumi. Contohnya granit.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.799573452877881,
+    "skor_total_persen": "79.96"
+  },
+  {
+    "id_soal": "InputFile_011",
+    "soal": "Bagaimana proses pembentukan batuan sedimen?",
+    "jawaban_siswa_input": "Proses pembuatan batuan itu sangat lama, bisa jutaan tahun. Batuan sangat keras dan banyak jenisnya.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.8023085546183614,
+    "skor_total_persen": "80.23"
+  },
+  {
+    "id_soal": "InputFile_012",
+    "soal": "Bagaimana proses pembentukan batuan sedimen?",
+    "jawaban_siswa_input": "Untuk menjawab pertanyaan ini, kita perlu memahami dulu apa itu batuan dan bagaimana klasifikasinya dalam ilmu geologi. Batuan sedimen hanyalah salah satu jenisnya.",
+    "kata_kunci_input": [],
+    "skor_total_numerik": 0.48262521374928014,
+    "skor_total_persen": "48.26"
+  }
+]
