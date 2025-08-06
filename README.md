@@ -32,7 +32,9 @@ To develop a scoring model that can:
 
 ## Screenshots & Diagrams
 - Model Architecture (`glove_lstm_architecture.png`)
-- Dataset sample (`dataset_sample.png`)
+- Dataset sample (`dataset_sample.pdf`)
+- Evaluation Graph Training (`evaluation_chart_training.png`)
+- Evaluation Graph Scenario (`evaluation_chart_scenario.png`)
 
 ## Note
 All data used has been anonymized and simplified for educational use only.
