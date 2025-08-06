@@ -30,11 +30,21 @@ To develop a scoring model that can:
 - Google Colab for model training
 - Flask for local web deployment
 
-## Screenshots & Diagrams
-- Model Architecture (`glove_lstm_architecture.png`)
-- Dataset sample (`dataset_sample.pdf`)
-- Evaluation Graph Training (`evaluation_chart_training.png`)
-- Evaluation Graph Scenario (`evaluation_chart_scenario.png`)
+## Visuals & Supporting Files
+
+### Model Architecture  
+![Model Architecture](assets/glove_lstm_architecture.png)
+
+### Dataset Sample  
+Dataset sample and scoring rubric (PDF):  
+[📄 View dataset_sample.pdf](assets/dataset_sample.pdf)
+
+### Evaluation Chart – Training  
+![Evaluation Training](assets/evaluation_chart_training.png)
+
+### Evaluation Chart – Scenarios  
+![Evaluation Scenario](assets/evaluation_chart_scenario.png)
+
 
 ## Note
 All data used has been anonymized and simplified for educational use only.
